@@ -1,5 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nani Pinninti and I'm a Full Stack Developer, from RGUKT</h2>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&width=435&lines=Nani+Pinninti%2C+Full+stack+Developer" alt="Typing SVG" /></a>
 ###
 
 <div align="center">
