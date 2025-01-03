@@ -1,13 +1,24 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&width=435&lines=Nani+Pinninti%2C+Full+stack+Developer" alt="Typing SVG" /></a>
+
+###
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nanipinninti&theme=dark">
+      <img src="https://streak-stats.demolab.com?user=nanipinninti" alt="GitHub Streak" width="450" height="auto">
+    </picture>
+  </a>
+</div>
+
+
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nanipinninti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nanipinninti&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nanipinninti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nanipinninti&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 ###
-
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
